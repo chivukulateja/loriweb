@@ -82,7 +82,7 @@
   .btn-lg {
     border-width: medium;
     border-radius: 1;
-    letter-spacing: .4rem;
+    /* letter-spacing: .4rem; */
     text-transform: uppercase;
   }
 
