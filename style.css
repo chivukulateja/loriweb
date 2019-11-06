@@ -85,7 +85,7 @@ body {
   .btn-lg {
     border-width: medium;
     border-radius: 1;
-    letter-spacing: .4rem;
+    /* letter-spacing: .rem; */
     text-transform: uppercase;
   }
 
